@@ -1,0 +1,11 @@
+{
+  "themePreset": "wechatElegant",
+  "customAccentColor": "",
+  "customBackgroundColor": "",
+  "customHeadingPrefix": "",
+  "addTitleDivider": true,
+  "titleAlign": "center",
+  "bodyAlign": "justify",
+  "paragraphIndent": false,
+  "titleCard": true
+}

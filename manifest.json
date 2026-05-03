@@ -1,0 +1,9 @@
+{
+  "id": "publisher-copy",
+  "name": "Publisher Copy",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "Copy Obsidian notes as Markdown or WeChat-ready rich text with embedded images.",
+  "author": "Codex",
+  "isDesktopOnly": true
+}
